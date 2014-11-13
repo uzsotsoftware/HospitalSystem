@@ -7,7 +7,7 @@
 #include <cstdlib>
 
 using namespace std;
-
+/*Elegant piece of code I hope everyone looks at this - S H Kembo*/
 class Docter;
 class Reception;
 class Patient{
